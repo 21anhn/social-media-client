@@ -1,4 +1,4 @@
-# social-media-client
+# socialix-client
 
 ## Project setup
 ```
